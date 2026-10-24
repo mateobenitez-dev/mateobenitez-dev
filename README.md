@@ -3,7 +3,7 @@
   <img src="assets/logo-claro.svg" alt="mate.dev" width="300">
 </picture>
 
-Soy Mate, tengo 21 años y estudio Desarrollo de Software en Santa Fe capital. Hago páginas web: landings y sitios con front y back.
+Soy Mate, tengo 21 años y estudio Desarrollo de Software en Santa Fe capital. Hago páginas web: landings y sitios con front y back, ademas de software a medida.
 
 [matedev.com.ar](https://matedev.com.ar) · Santa Fe, Argentina
 
